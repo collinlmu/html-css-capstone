@@ -1,0 +1,52 @@
+:root {
+    background-color: rgb(37, 37, 37);
+    color: rgba(243, 243, 243, 0.608);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 40px;
+}
+
+.nav {
+    list-style: none;
+    display: flex;
+}
+
+.nav-item {
+    padding: 30px;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: #8A5B48;
+    text-decoration: none;
+    font-size:x-large;
+}
+h1 {
+    color:rgb(91, 175, 231)
+}
+
+.form {
+    width: min-content;
+}
+
+#submit {
+    margin: 5px;
+}
+
+.vs-pages {
+    list-style: none;
+}
+
+.pages {
+    text-decoration: none;
+    color: #8A5B48;
+
+}
+img {
+    width: 30%;
+    height: 300px;
+}
+.images-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
